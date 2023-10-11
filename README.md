@@ -14,14 +14,8 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    </div>
-
-<div>
-  <img align= right height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonSousaS&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-    
   
-  <h1 align="center">Social Media</h1>
+  <h1 align="left">Social Media</h1>
     <a href = "mailto: robson0306sousa@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
