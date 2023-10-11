@@ -1,9 +1,4 @@
 ## Hello dev! How are you? Robson here!
-<div>
-  
-  <img align= right height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonSousaS&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -19,6 +14,11 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    </div>
+
+<div>
+  <img align= right height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonSousaS&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
     
   
   <h1 align="center">Social Media</h1>
